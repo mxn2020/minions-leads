@@ -1,6 +1,12 @@
 ---
 name: minions-leads
-description: Lead records, company profiles, contact details, and qualification status
+id: OC-0128
+version: 1.0.0
+description: "Lead records, company profiles, contact details, and qualification status"
+category: productivity
+subcategory: crm
+tags: ["minion", "productivity", "crm"]
+comments:
 ---
 
 # minions-leads — Agent Skills
