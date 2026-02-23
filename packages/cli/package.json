@@ -1,6 +1,6 @@
 {
   "name": "@minions-leads/cli",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "CLI for minions-leads — Lead records, company profiles, contact details, and qualification status",
   "license": "MIT",
   "repository": {

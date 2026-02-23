@@ -1,7 +1,7 @@
 {
     "name": "minions-leads-workspace",
     "private": true,
-    "version": "0.1.0",
+    "version": "0.2.0",
     "description": "Lead records, company profiles, contact details, and qualification status",
     "type": "module",
     "license": "MIT",
