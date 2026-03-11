@@ -6,3 +6,4 @@ description: "CLI for minions-leads — Lead records, company profiles, contact 
 priority: high
 deploy_url: null
 tags: null
+category: minion-toolbox
