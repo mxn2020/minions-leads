@@ -1,0 +1,8 @@
+name: "@minions-leads/cli"
+project_scope: child
+child_type: cli
+parent_project: minions-leads-workspace
+description: "CLI for minions-leads — Lead records, company profiles, contact details, and qualification status"
+priority: high
+deploy_url: null
+tags: null

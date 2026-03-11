@@ -1,0 +1,8 @@
+name: "@minions-leads/sdk"
+project_scope: child
+child_type: sdk
+parent_project: minions-leads-workspace
+description: "Lead records, company profiles, contact details, and qualification status"
+priority: high
+deploy_url: null
+tags: null
